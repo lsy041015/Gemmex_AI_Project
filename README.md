@@ -177,7 +177,7 @@ Planned benchmark dimensions:
 
 ## Philosophy
 
-Gemmex is built for developers who want the workflow of modern coding agents without being locked into a paid subscription. The goal is not to clone any single product, but to combine a terminal-first interface, practical tool use, free API access patterns, 그리고 iterative skill improvement into a usable open coding assistant.
+Gemmex is built for developers who want the workflow of modern coding agents without being locked into a paid subscription. The goal is not to clone any single product, but to combine a terminal-first interface, practical tool use, free API access patterns, and iterative skill improvement into a usable open coding assistant.
 
 ## 라이선스
 
