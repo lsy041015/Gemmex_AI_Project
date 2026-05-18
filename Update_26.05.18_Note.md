@@ -2,7 +2,7 @@
 
 Gemmex is a terminal-based autonomous coding agent built around Google AI Studio models. It references the workflow of Claude Code and GPT Codex while aiming to provide a free, lightweight tool for developers who want an interactive coding agent without a paid subscription.
 
-The project focuses on practical coding workflows: reading and editing files, running commands, inspecting Git changes, executing generated code in a sandbox, and improving answers through an automated retry loop.
+The project focuses on practical coding workflows: reading and editing files, running commands, inspecting Git changes, executing generated code in a sandbox, 그리고 improving answers through an automated retry loop.
 
 ## Goals
 
